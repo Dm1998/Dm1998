@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dm1998
 - 👀 I’m interested in software engineering and verification.
-- 🌱 I’m currently studying Electrical Engineering with MSC on Electronics and Information Systems Technology.
+- 🌱 I’m currently studying Electrical Engineering with MSc in Electronics and Information Systems Technology.
 - 📚 I'm also currently working on my thesis; a Random Instrucion Generator for RISC-V processors.
 - ✈️🏀 A trip enthusiast and basketball lover.
 - 📫 email: dimitris_mylonidis@hotmail.com
